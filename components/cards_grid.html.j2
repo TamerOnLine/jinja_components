@@ -1,7 +1,0 @@
-{% import 'macros.html.j2' as macros %}
-
-<div class="card-grid">
-  {% for item in items %}
-    {{ macros.render_card(item.title, item.content, item.image_url) }}
-  {% endfor %}
-</div>
