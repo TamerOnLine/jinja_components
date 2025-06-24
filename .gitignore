@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.code-workspace
+*.exe
+gitingest.txt
 
 # C extensions
 *.so
