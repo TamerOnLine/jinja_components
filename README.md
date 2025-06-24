@@ -1,6 +1,6 @@
 # jinja_components
 
-```bach
+```bash
 git clone https://github.com/TamerOnLine/jinja_components.git  # Clone the repository from GitHub
 cd jinja_components                                            # Navigate into the project directory
 py -m venv venv                                                # Create a virtual environment named 'venv'
